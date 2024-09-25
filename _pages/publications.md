@@ -32,4 +32,3 @@ Preprint on bioRxiv 2024. [Link](https://doi.org/10.1101/2024.06.15.599143)
 <b>Pertpy: an end-to-end framework for perturbation analysis</b><br>
 Heumos, L.; Ji, Y.; <b>May, L.</b>; Green, T.; Zhang X.; Wu X.; Ostner J.; Peidli, S.; Schumacher, A.; Hrovatin, K.; Müller, M., Chong, F.; Sturm, G.; Tejada, A.; Dann, E.; Dong, M.; Bahrami, M.; Gold I.;, Rybakov, S.; Namsaraeva, A.; Moinfar, A.; Zheng, Z.; Roellin E.; Mekki, I.; Sander, C.; Lotfollahi M.; Schiller, H.; Theis, F. J.
 Preprint on bioRxiv 2024. [Link](https://doi.org/10.1101/2024.08.04.606516)
-
