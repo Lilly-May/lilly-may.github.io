@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=ptH-S1sAAAAJ&hl=de).
+For an always up-to-date list, please see [Google Scholar](https://scholar.google.com/citations?user=ptH-S1sAAAAJ&hl=de).
 
 ## Journal Publications
 <b>An open-source framework for end-to-end analysis of electronic health record data</b><br>
